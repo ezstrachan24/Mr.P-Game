@@ -1,0 +1,189 @@
+body {
+	background-color: #ccf5f5;
+}
+
+#gameholder {
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#title {
+	width: 600px;
+	height: 150px;
+	background-image: url("media/penguin_title.png");
+}
+
+
+.mound1:hover {
+	background-image: url("media/mound_1_hover.png");
+	cursor: pointer;
+}
+
+/*This pseudoclass is applied when the div has been clicked*/
+.mound1:active {
+	background-image: url("media/penguin_1.png");
+}
+
+/*This is the natural style of the div */
+.mound1 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("media/mound_1.png")
+}
+
+/*================== M O U N D 2==================*/
+
+.mound2:hover {
+	background-image: url("media/mound_2_hover.png");
+	cursor: pointer;
+}
+
+.mound2:active {
+	background-image: url("media/penguin_2.png");
+}
+
+.mound2 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("media/mound_2.png")
+}
+
+/*================== M O U N D 3==================*/
+
+.mound3:hover {
+	background-image: url("media/mound_3_hover.png");
+	cursor: pointer;
+}
+
+.mound3:active {
+	background-image: url("media/penguin_3.png");
+}
+
+.mound3 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("media/mound_3.png")
+}
+
+/*================== M O U N D 4==================*/
+
+.mound4:hover {
+	background-image: url("media/mound_4_hover.png");
+	cursor: pointer;
+}
+
+.mound4:active {
+	background-image: url("media/penguin_4.png");
+}
+
+.mound4 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("media/mound_4.png")
+}
+
+/*================== M O U N D 5==================*/
+
+.mound5:hover {
+	background-image: url("media/mound_5_hover.png");
+	cursor: pointer;
+}
+
+.mound5:active {
+	background-image: url("media/penguin_5.png");
+}
+
+.mound5 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("media/mound_5.png")
+}
+
+/*================== M O U N D 6==================*/
+
+.mound6:hover {
+	background-image: url("media/mound_6_hover.png");
+	cursor: pointer;
+}
+
+.mound6:active {
+	background-image: url("media/penguin_6.png");
+}
+
+.mound6 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("media/mound_6.png")
+}
+
+/*================== M O U N D 7==================*/
+
+.mound7:hover {
+	background-image: url("media/mound_7_hover.png");
+	cursor: pointer;
+}
+
+.mound7:active {
+	background-image: url("media/penguin_7.png");
+}
+
+.mound7 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("media/mound_7.png")
+}
+
+/*================== M O U N D 8==================*/
+
+.mound8:hover {
+	background-image: url("media/mound_8_hover.png");
+	cursor: pointer;
+}
+
+.mound8:active {
+	background-image: url("media/penguin_8.png");
+}
+
+.mound8 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("media/mound_8.png")
+}
+
+/*================== M O U N D 9==================*/
+
+.mound9:hover {
+	background-image: url("media/mound_9_hover.png");
+	cursor: pointer;
+}
+
+.mound9:active {
+	background-image: url("media/penguin_6.png");
+}
+
+.mound9 {
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-image: url("media/mound_9.png")
+}
+
+/*This is for the Yeti*/
+
+#yeti:hover {
+	background-image: url("media/mound_9_hover.png");
+	cursor: pointer;
+}
+
+#yeti:active {
+	background-image: url("media/yeti.png");
+}
